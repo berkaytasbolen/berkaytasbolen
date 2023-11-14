@@ -19,4 +19,4 @@ Honored to serve as the Campus Ambassador for Huawei Student Developers, where I
 Eager to explore new challenges, collaborate on innovative projects, and contribute to the ever-evolving field of computer engineering. Open to networking with like-minded professionals, students, and industry leaders.
 
 
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/aliberkaytasbolen/)
+![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white) ➥ https://www.linkedin.com/in/aliberkaytasbolen/

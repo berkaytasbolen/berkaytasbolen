@@ -1,4 +1,4 @@
-🚀 Aspiring Computer Engineer | 3rd Year Student at Karadeniz Technical University 🎓
+🚀 Aspiring Computer Engineer | 4th Year Student at Karadeniz Technical University 🎓
 
 Passionate about leveraging technology to drive innovation and enhance cybersecurity. Currently pursuing a Bachelor's degree in Computer Engineering, specializing in cutting-edge solutions and creative problem-solving.
 

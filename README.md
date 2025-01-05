@@ -2,7 +2,7 @@
 
 Passionate about leveraging technology to drive innovation and enhance cybersecurity. Currently pursuing a Bachelor's degree in Computer Engineering, specializing in cutting-edge solutions and creative problem-solving.
 
-👨‍💻 Club Management Board Member | Karadeniz Teknik University Computer Engineering Club
+👨‍💻 Club Management Board Member | Karadeniz Technical University Computer Engineering Club
 
 Actively involved in the dynamic world of Computer Engineering through my role in the management of the Computer Engineering club. As a dedicated team player, I contribute to fostering a collaborative environment and organizing events that promote knowledge-sharing and skill development.
 
